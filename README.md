@@ -28,6 +28,9 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: NITHYAA SRI S S
 RegisterNumber: 212222230100
 /*
+
+```
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
